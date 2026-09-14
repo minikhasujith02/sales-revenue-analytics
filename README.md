@@ -24,7 +24,8 @@ sql/ → SQL analysis queries
 - **Technology drives the highest revenue ($827K) despite the fewest orders** — high value per sale. **Office Supplies has the most orders but the lowest revenue** — high volume, low value per order.
 - **Clear seasonality**: sales consistently peak in September and November–December each year, with January–February being the slowest months.
 - **Standard Class shipping is used for ~60% of orders** despite having the longest average delivery time (5 days) — suggesting most customers prioritize cost over speed.
-- 
+  ## 📈 Dashboard Preview
+  ![Dashboard Screenshot](dashboard.png)
 
 ## 🚀 How to Reproduce
 1. Clean data using the notebook in `/notebook`
